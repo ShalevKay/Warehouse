@@ -1,3 +1,0 @@
-C:/Users/shale/FindingJob/Univesity Projects/Warehouse_C++/cmake-build-debug/CMakeFiles/SPL_Ass1_Warehouse.dir
-C:/Users/shale/FindingJob/Univesity Projects/Warehouse_C++/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/shale/FindingJob/Univesity Projects/Warehouse_C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
